@@ -1,0 +1,29 @@
+textarea {
+  max-width: 100%;
+  width: 100%;
+  display: block;
+  padding: 10px 20px;
+  margin: 0 0 20px 0;
+  font-family: Golos, Arial, sans-serif;
+  border: 1px solid #e2e2e2;
+  box-sizing: border-box;
+}
+
+/* добавим кнопку */
+button {
+  display: inline-block;
+  margin-top: 10px;
+  padding: 10px 20px;
+  background-color: #4ca5af;
+  border: none;
+  cursor: pointer;
+  font-size: 14px;
+  color: white;
+
+}
+
+button:hover {
+  background-color: #4822f0;
+  font-size: 16px;
+  color: rgb(229, 230, 218);
+}
